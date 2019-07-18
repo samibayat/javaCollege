@@ -1,4 +1,4 @@
-public class SLW 
+public class removeSpaces
     {  
         public static void main(String[] args){   
             String string = "Hardships often prepare ordinary people for an extraordinary destiny";  
